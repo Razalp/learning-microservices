@@ -1,0 +1,68 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn cache directory
+.yarn
+.yarnrc.yml
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# Remix
+.build/
+
+# Nuxt.js
+.nuxt/
+output/
+
+# Svelte
+.svelte-kit/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# GitHub
+*.lock
+.git/
